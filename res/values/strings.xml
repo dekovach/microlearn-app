@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ClipView!</string>
+    <string name="app_name">microLearn</string>
+    <string name="ACCOUNT_TYPE">de.dbis.microlearn.account</string>
+    <string name="username">Username</string>
+    <string name="username_hint">efudd</string>
+    <string name="password">Password</string>
+    <string name="password_hint">w4bb1ts!</string>
+    <string name="login_button_label">Log In</string>
+    <string name="authenticating">Authenticating</string>
+    <string name="prefs_cat_sync_title">Sync Prefs</string>
+    <string name="prefs_sync_summary">Summary</string>
+    <string name="prefs_sync_title">Title</string>
+
+    <!-- Label for this package -->
+    <string name="label">SamplesyncAdapter</string>
+
+    <!-- Title string for Login activity -->
+    <string name="ui_activity_title">Sign-in</string>
+    <!-- Message shown in progress dialog while app connects to the server -->
+    <string name="ui_activity_authenticating">Authenticating\u2026</string>
+
+    <!-- AuthenticatorActivity -->
+    <skip />
+    <!-- Label above username EditText -->
+    <string name="login_activity_username_label">Username</string>
+    <!-- Label above password EditText -->
+    <string name="login_activity_password_label">Password</string>
+    <!-- Button to sign in after entering username and password -->
+    <string name="login_activity_ok_button">Sign in</string>
+
+    <!-- Message shown in dialog if the username or password is invalid. -->
+    <string name="login_activity_loginfail_text_both">The username or password isn\'t valid. A Microlearn account is
+ required. Please try again. </string>
+    <!-- Message shown in dialog if the password is invalid -->
+    <string name="login_activity_loginfail_text_pwonly">You entered the wrong password or your account has changed.
+        Please re-enter your password.</string>
+    <!-- Message shown in dialog to prompt the user for their password -->
+    <string name="login_activity_loginfail_text_pwmissing">Type the password for this account.</string>
+    <!--
+        Message shown if the provided account doesn't support the current
+        activity.
+    -->
+    <string name="login_activity_newaccount_text">Sign in to your Microlearn account. </string>
+
+    <!-- Button that takes the user to the "sign in" screen -->
+    <string name="sign_in_button_label">Sign in</string>
+    <!-- Button for going to the previous screen or step -->
+    <string name="back_button_label">Back</string>
+    <!-- Button to cancel the current operation -->
+    <string name="cancel_button_label">Cancel</string>
+    <string name="profile_action">Sample profile</string>
+    <string name="view_profile">View Profile</string>
+    <string name="perform_sync">Sync</string>
+
+    <string-array name="launcher_menu">
+        <item id="0">Latest</item>
+        <item id="1">Tags</item>
+    </string-array>
+
+    <string name="clip_title">No Title</string>
+    <string name="login_activity_loginfail_text_network_error">There was a network error. Connection to service refused. </string>
+    <string name="login_activity_general_error">An error occured.</string>
+    <string name="title_activity_welcome">Welcome to microLearn</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="spash_screen_image_description">MicroLearn transforms infromation from the cloud into personal knowledge.</string>
+    <string name="signup_button_label">Sign Up</string>
+<string name="account">Account</string>
+<string name="google_login">Log In</string>
+<string name="title_activity_google_login">Google login</string>
+    <string name="pull_to_refresh_pull_label">Pull to refresh...</string>
+    <string name="pull_to_refresh_release_label">Release to refresh...</string>
+    <string name="pull_to_refresh_refreshing_label">Loading...</string>
+    <string name="pull_to_refresh_tap_label">Tap to refresh...</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="help">Help</string>
+    <string name="settings">Settings</string>
+    <string name="label_notebooks">Notebooks</string>
+    <string name="label_notes">Notes</string>
+    <string name="label_tags">Tags</string>
+    
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="logout">Logout</string>
+</resources>

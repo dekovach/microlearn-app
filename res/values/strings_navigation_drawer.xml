@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_main_views">
+        <item >Notebooks</item>
+        <item >Notes</item>
+        <item >Tags</item>
+    </string-array>
+</resources>
